@@ -74,15 +74,6 @@ Landing page desenvolvida com foco em apresentação visual e responsividade.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorlfdev&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlfdev&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Vamos nos conectar?
 
 * 💼 LinkedIn: [https://www.linkedin.com/in/victorlfdev](https://www.linkedin.com/in/victorlfdev)
