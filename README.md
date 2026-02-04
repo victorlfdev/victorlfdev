@@ -21,7 +21,6 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso **P
 * 📚 Estudando **React, HTML, CSS, JavaScript e UI/UX**
 * 🧠 Interesse em **metodologias ágeis, liderança e boas práticas**
 * 🎯 Objetivo: **Desenvolvedor Front-End Júnior**
-* 🏠 Buscando oportunidades **Home Office**
 
 ---
 
