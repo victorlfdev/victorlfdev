@@ -64,11 +64,11 @@ Specialized in **React/Next.js** with deep focus on **motion design (Framer Moti
 <div align="center">
 
 <a href="https://github.com/victorlfdev">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorlfdev&show_icons=true&theme=radical&hide_title=false&title_color=38B2AC&icon_color=38B2AC&text_color=ffffff&bg_color=1d1f21" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victorlfdev&theme=radical" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/victorlfdev">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlfdev&layout=compact&theme=radical&title_color=38B2AC&icon_color=38B2AC&text_color=ffffff&bg_color=1d1f21&langs_count=6" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorlfdev&theme=radical" alt="Top Languages" />
 </a>
 
 </div>
