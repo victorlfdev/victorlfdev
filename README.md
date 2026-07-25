@@ -1,94 +1,82 @@
-# 👋 Hi, I'm Victor Lima
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Front--End-Engineer-0A66C2" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
-</p>
+### 👋 Hi, I'm Victor Lima
 
-🎯 Front-End Developer focused on building **modern, high-performance and visually engaging web applications**, with strong attention to **UX, motion and conversion**.
+<div>
 
-💼 Currently working on real-world projects including **landing pages for businesses** and an **educational platform (EducaOnline)**.
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-End+Developer;React+%26+Next.js+Specialist;UI%2FUX+%26+Motion+Design;Building+high-converting+interfaces&font=Fira+Code&center=true&width=500&height=60&color=38B2AC&vCenter=true&pause=800)
+
+</div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-victorlfdev-181717?style=flat-square&logo=github)](https://github.com/victorlfdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-victorlfdev-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/victorlfdev)
+[![Gmail](https://img.shields.io/badge/Email-victorlf2002%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:victorlf2002@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🎯 What I Do
 
-- 💻 Focused on **Front-End Development (React / Next.js)**
-- 🎨 Passionate about **UI/UX, animations and premium interfaces**
-- ⚡ Experience with **real projects and product thinking**
-- 📈 Interested in **performance, conversion and user behavior**
-- 🎯 Goal: **Front-End Developer (Remote - CLT)**
+I build **modern, high-performance web interfaces** where **design precision** meets **conversion strategy**.
+
+Specialized in **React/Next.js** with deep focus on **motion design (Framer Motion, GSAP)**, **responsive layouts**, and **business-oriented UI**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Front-End
-- React.js / Next.js
-- JavaScript (ES6+) & TypeScript
-- HTML5 / CSS3
-- TailwindCSS
-- Framer Motion & Lenis (smooth scroll & animations)
-
-### Back-End & Data (support)
-- Node.js
-- PostgreSQL
-- REST APIs
-
-### Tools & Workflow
-- Git & GitHub
-- Docker
-- GitHub Actions
-- Figma (UI Design)
+| Front-End | Back-End & Data | Tools |
+|:---|:---|:---|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4176B6?style=for-the-badge&logo=postgresql&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![REST API](https://img.shields.io/badge/REST_API-6B44A5?style=for-the-badge&logo=express&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🔬 EducaOnline — Digital Lab Platform (FIAP Hackathon)
+### [EducaOnline](https://github.com/victorlfdev/Hackathon) — Virtual Lab Platform
+> **Problem:** Public schools lack access to physical chemistry labs.
+> **Solution:** A gamified Digital Twin simulator for student experimentation, built at FIAP Hackathon.
 
-A web platform that simulates **physical-chemical laboratories** for public schools using a **Digital Twin approach**.
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</div>
 
-💡 Highlights:
-- Focus on **student & teacher experience**
-- Gamified learning environment
-- Data-driven dashboard (performance, time, difficulty)
+### [Landingpage Amplifica](https://github.com/victorlfdev/landingpage-amplifica) — High-Converting Landing Page
+> **Problem:** Businesses need premium digital presence that converts.
+> **Solution:** Production-ready landing page with scroll animations (Framer Motion + GSAP), structured for brand perception and lead capture.
 
-🔗 https://github.com/victorlfdev/Hackathon
-
----
-
-### 🎤 Amplifica — High-Converting Landing Page
-
-Landing page focused on **visual impact, responsiveness and business positioning**.
-
-💡 Highlights:
-- Modern UI with strong visual hierarchy
-- Built for **conversion and brand perception**
-- Clean and scalable structure
-
-🔗 https://github.com/victorlfdev/landingpage-amplifica
+<div align="left">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-00557C?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-99E0B6?style=for-the-badge&logo=greensock&logoColor=white" />
+</div>
 
 ---
 
-## 🧠 What I'm Currently Working On
+## 📊 GitHub Stats
 
-- 🚀 Building **high-conversion landing pages** for local businesses
-- 🎨 Improving **motion design (Framer Motion + GSAP)**
-- ⚡ Creating **premium UI templates**
-- 📦 Structuring projects with **scalability and best practices**
+<div align="center">
+
+<a href="https://github.com/victorlfdev">
+  <img src="https://github-readme-stats.vercel.app/api?username=victorlfdev&show_icons=true&theme=radical&hide_title=false&title_color=38B2AC&icon_color=38B2AC&text_color=ffffff&bg_color=1d1f21" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/victorlfdev">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlfdev&layout=compact&theme=radical&title_color=38B2AC&icon_color=38B2AC&text_color=ffffff&bg_color=1d1f21&langs_count=6" alt="Top Languages" />
+</a>
+
+</div>
 
 ---
 
-## 📫 Contact
+<div align="center">
 
-- 💼 LinkedIn: https://www.linkedin.com/in/victorlfdev
-- 🧑‍💻 GitHub: https://github.com/victorlfdev
+📫 **Let's connect** — [LinkedIn](https://www.linkedin.com/in/victorlfdev) · [GitHub](https://github.com/victorlfdev) · [victorlf2002@gmail.com](mailto:victorlf2002@gmail.com)
 
----
-
-⭐ If you find something useful, feel free to star the repo!
+</div>
