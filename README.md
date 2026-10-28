@@ -35,11 +35,21 @@ My recent work spans **offline-first mobile apps**, **REST APIs**, **native desk
 
 ## 🚀 Selected builds
 
-### 01 / PressãoViva — Mobile + API
+### 01 / Amplifica — Professional website
+
+A business website delivered for an **event audiovisual brand**, built with **Next.js, TypeScript, Tailwind CSS, and Framer Motion**. It organizes the brand's services, audiovisual work, and contact channels in a responsive interface.
+
+**My role:** interface structure and development, reusable sections, audiovisual content, and WhatsApp and email contact actions.
+
+[**Explore the repository ↗**](https://github.com/victorlfdev/amplifica-landing) · [**Visit the website ↗**](https://amplificamidias.com.br/)
+
+### 02 / PressãoViva — Mobile + API
 
 <a href="https://github.com/victorlfdev/arterial-monitor"><img src="./assets/pressaoviva.svg" width="100%" alt="PressãoViva — React Native mobile application connected to an Express API and SQLite persistence." /></a>
 
 A home blood pressure tracking project with a **React Native / Expo app**, an **Express REST API**, and **SQLite persistence**. Includes offline recording and synchronization, trend charts, reminders, and gamification.
+
+**Status:** experimental project without authentication; the social section uses demonstration data.
 
 **Across the stack:** mobile interface → local storage and sync → REST endpoints → server database → Docker Compose.
 
@@ -47,7 +57,7 @@ A home blood pressure tracking project with a **React Native / Expo app**, an **
 
 [**Explore the repository ↗**](https://github.com/victorlfdev/arterial-monitor)
 
-### 02 / Stemway — Desktop + AI audio
+### 03 / Stemway — Desktop + AI audio
 
 <a href="https://github.com/victorlfdev/Stemway"><img src="./assets/stemway.svg" width="100%" alt="Stemway — local AI music separation, with a React interface and a Rust/Tauri native backend." /></a>
 
@@ -59,7 +69,7 @@ A desktop application for separating music into individual stems with **local AI
 
 [**Explore the repository ↗**](https://github.com/victorlfdev/Stemway)
 
-### 03 / NEXORA — Web + creative development
+### 04 / NEXORA — Web + creative development
 
 <a href="https://github.com/victorlfdev/nexora"><img src="./assets/nexora.svg" width="100%" alt="NEXORA — a software-house portfolio concept built with Next.js, GSAP and WebGL." /></a>
 
@@ -78,7 +88,6 @@ A **portfolio concept for a fictional software house**, built with Next.js, GSAP
 
 | Project | Focus | Technologies |
 | :--- | :--- | :--- |
-| [Amplifica](https://github.com/victorlfdev/amplifica-landing) | Audiovisual brand landing page | Next.js, TypeScript, Framer Motion |
 | [Salão Beauty](https://github.com/victorlfdev/salao-beauty) | Editorial design for a salon website | Next.js, Tailwind CSS, GSAP |
 | [Koala & Co](https://github.com/victorlfdev/koalaco) | Brand presentation and scroll interactions | Next.js, GSAP, Lenis |
 | [EducaOnline](https://github.com/victorlfdev/Hackathon) | Team project for a virtual science lab, FIAP Hackathon | React, TypeScript, Vite |
